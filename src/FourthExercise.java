@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class FourthExercise {
     public static void main(String[] args) {
+        //Faça um algoritmo que receba um número inteiro
+        // e imprima na tela do seu antecessor e do seu sucessor
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite um numero: ");
         int num = sc.nextInt();

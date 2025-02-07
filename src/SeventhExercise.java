@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class SeventhExercise {
     public static void main(String[] args) {
+        //Faça um algoritmo que leia dois valores booleanos (lógicos)
+        // e determine se ambos são VERDADEIRO ou FALSO
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite 1ª valor boleano: ");
         boolean value1 = sc.nextBoolean();
