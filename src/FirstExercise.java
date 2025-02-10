@@ -3,6 +3,10 @@ import java.util.Scanner;
 public class FirstExercise {
 
     public static void main(String[] args) {
+        //Faça um algoritmo que leia os valores de A, B,
+        // C e em seguida imprima na tela a soma entre A e B
+        // e mostre se a soma é menor que C.
+
         System.out.println("Digite um valor Inteiro: ");
         Scanner integerScanner = new Scanner(System.in);
         int A = integerScanner.nextInt();
